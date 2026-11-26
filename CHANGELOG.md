@@ -4,6 +4,7 @@
 
 - `.toc`: addon list icon, category, German notes, website and license fields
 - MIT license
+- Addon files moved to the repository root, so the repo can be cloned straight into `AddOns/NodoTracker`
 
 ## 1.1.0 – 2026-11-26
 

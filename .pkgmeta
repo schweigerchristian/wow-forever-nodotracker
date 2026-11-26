@@ -1,0 +1,6 @@
+package-as: NodoTracker
+
+ignore:
+  - README.md
+  - CHANGELOG.md
+  - docs

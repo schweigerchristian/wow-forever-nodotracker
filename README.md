@@ -16,7 +16,20 @@ XP and gold tracker for **WoW Forever** (Interface 16001), styled like Blizzard'
 
 ## Install
 
-Download `NodoTracker-x.y.z.zip` from the [latest release](../../releases/latest) and extract it, or copy the `NodoTracker` folder into `World of Warcraft\_forever_\Interface\AddOns\`.
+**Release zip:** download `NodoTracker-x.y.z.zip` from the [latest release](../../releases/latest) and extract it into
+`World of Warcraft\_forever_\Interface\AddOns\`.
+
+**Git:** clone straight into the AddOns folder. The folder must be named `NodoTracker`
+(WoW only loads an addon whose folder name matches its `.toc`):
+
+```
+cd "World of Warcraft\_forever_\Interface\AddOns"
+git clone https://github.com/schweigerchristian/wow-forever-nodotracker.git NodoTracker
+```
+
+Update later with `git pull` inside that folder.
+
+**WowUp:** *Get Addons → Install from URL* with the repository URL.
 
 ## Commands
 
