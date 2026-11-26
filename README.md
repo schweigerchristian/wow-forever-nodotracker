@@ -2,6 +2,8 @@
 
 XP and gold tracker for **WoW Forever** (Interface 16001), styled like Blizzard's built-in damage meter.
 
+![NodoTracker](docs/screenshot.png)
+
 - **This Session / Overall** via the yellow dropdown (Overall is kept until you reset it)
 - Level progress with XP left and ETA
 - Experience per hour, split into kills, quests and other (exploration)
@@ -10,7 +12,7 @@ XP and gold tracker for **WoW Forever** (Interface 16001), styled like Blizzard'
 
 ## Install
 
-Copy the `NodoTracker` folder into `World of Warcraft\_forever_\Interface\AddOns\`.
+Download `NodoTracker-x.y.z.zip` from the [latest release](../../releases/latest) and extract it, or copy the `NodoTracker` folder into `World of Warcraft\_forever_\Interface\AddOns\`.
 
 ## Commands
 
