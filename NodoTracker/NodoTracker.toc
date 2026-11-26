@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: NodoTracker
+## Notes: Tracks XP and gold for this session and overall
+## Author: Christian
+## Version: 1.1.0
+## SavedVariablesPerCharacter: NodoTrackerDB
+
+NodoTracker.lua
