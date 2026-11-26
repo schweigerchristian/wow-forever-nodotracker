@@ -1,8 +1,13 @@
 ## Interface: 16001
 ## Title: NodoTracker
 ## Notes: Tracks XP and gold for this session and overall
-## Author: Christian
+## Notes-deDE: Zeigt XP und Gold für die aktuelle Sitzung und insgesamt
+## Author: Christian Schweiger
 ## Version: 1.1.0
+## Category: Leveling
+## IconTexture: Interface\Icons\Spell_Holy_HolyGuidance
 ## SavedVariablesPerCharacter: NodoTrackerDB
+## X-License: MIT
+## X-Website: https://github.com/schweigerchristian/wow-forever-nodotracker
 
 NodoTracker.lua

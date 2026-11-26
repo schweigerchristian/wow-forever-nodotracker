@@ -1,5 +1,9 @@
 # NodoTracker
 
+[![Release](https://img.shields.io/github/v/release/schweigerchristian/wow-forever-nodotracker)](../../releases/latest)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![WoW Forever](https://img.shields.io/badge/WoW%20Forever-16001-orange)
+
 XP and gold tracker for **WoW Forever** (Interface 16001), styled like Blizzard's built-in damage meter.
 
 ![NodoTracker](docs/screenshot.png)
@@ -27,3 +31,11 @@ Download `NodoTracker-x.y.z.zip` from the [latest release](../../releases/latest
 
 On 12.x-based clients addons cannot use the combat log. Kills are detected via the
 client's own (localized) XP chat message, quests via `QUEST_TURNED_IN`.
+
+## Bugs and feedback
+
+Please open an [issue](../../issues).
+
+## License
+
+[MIT](LICENSE) © Christian Schweiger

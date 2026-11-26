@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- `.toc`: addon list icon, category, German notes, website and license fields
+- MIT license
+
 ## 1.1.0 – 2026-11-26
 
 - Window rebuilt from the parts of Blizzard's damage meter (atlases, dropdown templates, menu system)
